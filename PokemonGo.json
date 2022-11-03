@@ -66,6 +66,41 @@
       "num": "003",
       "name": "Venusaur"
     }]
+  },  {
+    "id": 2,
+    "num": "002",
+    "name": "Sopas",
+    "img": "https://raw.githubusercontent.com/eldemiurgo/RecetaComida/main/LUNCH-SOUP.png",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.99 m",
+    "weight": "13.0 kg",
+    "candy": "Bulbasaur Candy",
+    "candy_img": "https://vignette.wikia.nocookie.net/pokemongo/images/8/87/Bulbasaur_candy.png/revision/latest?cb=20160817004743",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.042,
+    "avg_spawns": 4.2,
+    "spawn_time": "07:00",
+    "multipliers": [
+      1.2,
+      1.6
+    ],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "001",
+      "name": "Bulbasaur"
+    }],
+    "next_evolution": [{
+      "num": "003",
+      "name": "Venusaur"
+    }]
   }, {
     "id": 151,
     "num": "151",
