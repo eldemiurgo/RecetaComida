@@ -3,7 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "Pisco Sad",
-    "img": "https://www.piscoesperuano.com/img/rev/copa.png",
+    "img": "https://raw.githubusercontent.com/eldemiurgo/RecetaComida/main/copa.png",
     "type": [
       "Grass",
       "Poison"
