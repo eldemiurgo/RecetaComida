@@ -34,11 +34,10 @@
   }, {
     "id": 2,
     "num": "002",
-    "name": "Ivysaur",
-    "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Ivysaur-Pokemon-Go.png",
+    "name": "Sopas",
+    "img": "https://raw.githubusercontent.com/eldemiurgo/RecetaComida/main/aguadito.jpg",
     "type": [
-      "Grass",
-      "Poison"
+      "Fire"
     ],
     "height": "0.99 m",
     "weight": "13.0 kg",
